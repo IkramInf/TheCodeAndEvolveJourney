@@ -1,0 +1,33 @@
+ID   PA918075; SV 1; linear; RNA; PAT; XXX; 69 BP.
+XX
+AC   PA918075;
+XX
+DE   JP 2019517471-A/4: A Composition and Method of Using miR-302 Precursors
+DE   as Anti-Cancer Drugs for Treating Human Lung Cancers.
+XX
+KW   JP 2019517471-A/4.
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini;
+OC   Hominidae; Homo.
+XX
+RN   [1]
+RP   1-69
+RA   Lin,S., Wu,D.T., Lu,H.;
+RT   "A Composition and Method of Using miR-302 Precursors as Anti-Cancer Drugs
+RT   for Treating Human Lung Cancers";
+RL   Patent: JP 2019517471-A/4, 24-JUN-2019.
+XX
+DR   taxon:9606;
+XX
+FH   Key             Location/Qualifiers
+FT   source          1..69
+FT                   /organism="Homo sapiens"
+FT                   /mol_type="unassigned RNA"
+FT                   /db_xref="taxon:9606"
+XX
+SQ   Sequence 69 BP; 25 A; 16 C; 15 G; 13 T; 0 other;
+     ccaccactta aacgtggatg tacttgcttt gaaactaaag aagtaagtgc ttccatgttt        60
+     tggtgatgg                                                        69
+//
