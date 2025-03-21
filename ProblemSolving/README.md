@@ -11,7 +11,7 @@ This repository is dedicated to solving a variety of problems in bioinformatics 
 To get started with the solutions in this repository:
 
 1. Clone the repository:
-   git clone [https://github.com/yourusername/ProblemSolving.git](https://github.com/IkramInf/ProblemSolving.git)
+   git clone [https://github.com/IkramInf/ProblemSolving.git](https://github.com/IkramInf/ProblemSolving.git)
 
 2. Navigate to the project directory:
    cd ProblemSolving
