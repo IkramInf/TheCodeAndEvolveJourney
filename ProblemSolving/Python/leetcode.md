@@ -1,5 +1,5 @@
 # Concurrency
-(1114. Print in Order)[https://leetcode.com/problems/print-in-order/]
+1114. [Print in Order](https://leetcode.com/problems/print-in-order/)
 ```
 from threading import Semaphore
 
